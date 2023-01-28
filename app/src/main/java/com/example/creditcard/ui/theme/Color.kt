@@ -13,3 +13,9 @@ val color_two_gradient = Color(0xFF424242)
 val text = Color(0xFF7C7C7C)
 val text2 = Color(0xFF494949)
 val usdText = Color(0xFF46C282)
+
+val titleTextRowBackground = Color(0xFF313247)
+val titleTextRowColor = Color(0xFFCBCCCF)
+val titleIconRowColor = Color(0xFF65C8B9)
+
+val bodyBackgroundColor = Color(0xFF363652)
